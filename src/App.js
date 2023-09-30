@@ -1,18 +1,41 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-
-import SurahNames from './quranJSX/surahNames/index';
+import Header from './HeaderAndFooter/Header';
+import Footer from './HeaderAndFooter/Footer';
 import Home from './Navigation/Home';
-import Navigator from './Navigation/Navigator';
-import Surah1 from './quranJSX/allAyats/surah1';
+
+import Surah1 from './quranJSX/allAyats/Surah1';
+import Surah2 from './quranJSX/allAyats/Surah2';
+// import Surah3 from './quranJSX/allAyats/surah3';
+// import Surah4 from './quranJSX/allAyats/surah4';
+// import Surah5 from './quranJSX/allAyats/surah5';
+// import Surah6 from './quranJSX/allAyats/surah6';
+// import Surah7 from './quranJSX/allAyats/surah7';
+// import Surah8 from './quranJSX/allAyats/surah8';
+// import Surah9 from './quranJSX/allAyats/surah9';
+// import Surah10 from './quranJSX/allAyats/surah10';
+
 
 function App() {
   return (
     <Router className="App">
+      <Header />
       <Routes>
         <Route exact path="/" element={<Home />}/>
-        <Route exact path="/Surah1" element={<Surah1 />}/>
+
+        {/* all surah of quran */}
+        <Route path="/Surah1" element={<Surah1 />}/>
+        <Route path="/Surah2" element={<Surah2 />}/>
+        {/* <Route exact path="/Surah3" element={<Surah3 />}/>
+        <Route exact path="/Surah4" element={<Surah4 />}/>
+        <Route exact path="/Surah5" element={<Surah5 />}/>
+        <Route exact path="/Surah6" element={<Surah6 />}/>
+        <Route exact path="/Surah7" element={<Surah7 />}/>
+        <Route exact path="/Surah8" element={<Surah8 />}/>
+        <Route exact path="/Surah9" element={<Surah9 />}/>
+        <Route exact path="/Surah10" element={<Surah10 />}/> */}
       </Routes>
+      <Footer/>
     </Router>
   );
 }

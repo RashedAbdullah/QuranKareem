@@ -12,7 +12,7 @@ import surah3 from '../allAyats/surah3';
 const SurahNames = () => {
 
 
-console.log();
+
 
 
   return (

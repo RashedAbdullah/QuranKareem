@@ -1,13 +1,14 @@
 import React from 'react';
+// import { Route } from 'react-router-dom';
 import HeroArea from '../HeroArea/HeroArea';
-import SurahNames from '../quranJSX/surahNames';
+import Surahnames from '../quranJSX/surahNames/Surahnames';
 
 const Home = () => {
   return (
     <div>
 
         <HeroArea />
-        <SurahNames />
+        <Surahnames />
 
     </div>
   )

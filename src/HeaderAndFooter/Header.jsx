@@ -2,13 +2,14 @@ import React from 'react';
 import './Header.css';
 import { MdOutlineLanguage, MdOutlinePerson2 } from "react-icons/md";
 import { CgDarkMode } from "react-icons/cg";
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
     <div className='HeaderMainDiv'>
         
         <div className="logoAndName">
-            <a href=""><div className="logo"></div></a>
+            <Link className='aToLink' to="/"><div className="logo"></div></Link>
             <div className="siteName">QuranulKareem.com</div>
         </div>
 
