@@ -1,0 +1,75 @@
+.HeroAreaMainDiv {
+    background-color: rgb(4, 57, 57);
+    padding: 80px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.WelcomeMsg {
+    padding: 20px;
+    color: white;
+}
+
+.WelcomeMsg h4, .WelcomeMsg p {
+    font-family: KFGQPC;
+}
+
+.WelcomeMsg h4 {
+    font-size: 2rem;
+}
+
+.WelcomeMsg p {
+    font-size: 1.1rem;
+}
+
+
+
+
+
+.searchBoxAndIcon {
+    height: 6vh;
+    width: 40vw;
+    background-color: white;
+    border-radius: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchBoxAndIcon input {
+    margin-right: 10px;
+    height: 5vh;
+    width: 36vw;
+    font-size: 18px;
+    border: none;
+    font-family: KFGQPC;
+    border: none; 
+    overflow: hidden;
+}
+
+.SearchIconBox {
+    color: rgb(0, 65, 65);
+    font-size: 20px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.searchBoxAndIcon button {
+    background-color: transparent;
+    border: none;
+    border-radius: 50%;
+    padding: 5px 10px;
+
+    transition: 0.3s;
+}
+
+.searchBoxAndIcon button:hover {
+    background-color: rgb(235, 235, 235);
+}

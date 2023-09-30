@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@700&display=swap');
+
+
+.SurahNamesMainDivOutside {
+    background-color: #64CCC5;
+    padding: 0px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.HeadlineOfSurah {
+    border: 1px solid #176B87;
+    border-radius: 10px;
+    width: 100%;
+    margin: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(0, 48, 48);
+}
+
+.HeadlineOfSurah h2 {
+    font-family: KFGQPC;
+    font-size: 40px;
+    color: white;
+}
+
+.LinkOfSurahNameAndNumber {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    height: 100px;
+    width: 250px;
+    background-color: rgb(0, 36, 36);
+    border-radius: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    transition: 0.3s;
+}
+
+
+.LinkOfSurahNameAndNumber:hover {
+    background-color: rgb(0, 47, 81);
+    color: #fff5f5;;
+    transform: translateY(-5px);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.insideofSurahNumber {
+    height: 40px;
+    width: 40px;
+    background-color: aqua;
+    border-radius: 50%;
+    margin-right: 20px;
+    color: rgb(0, 23, 23);
+    font-weight: bold;
+}
+
+.insideofSurahNumber p {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.surahName p {
+    font-family: KFGQPC;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+
+@media (max-width: 800px) {
+    .HeadlineOfSurah{
+        background-color: rgb(0, 66, 77);
+
+    }
+    .HeadlineOfSurah h2 {
+        font-size: 25px;
+    }
+
+    .LinkOfSurahNameAndNumber {
+        font-size: 20px;
+        height: 70px;
+        width: 300px;
+        margin: 5px;
+    }
+
+    .insideofSurahNumber {
+        height: 30px;
+        width: 30px;
+    }
+}

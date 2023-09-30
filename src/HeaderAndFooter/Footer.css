@@ -1,0 +1,21 @@
+.FooterMainDiv {
+    padding: 100px;
+    margin-top: 100px;
+    background-color: rgb(36, 178, 178);
+
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
+.FooterSecondDiv{
+    display: flex;
+}
+
+.FooterSecondDiv ul li {
+    list-style-type: none;
+}
+
+.FooterSecondDiv ul li a {
+    color: white;
+    text-decoration: none;
+}

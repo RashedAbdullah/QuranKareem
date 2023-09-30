@@ -1,0 +1,70 @@
+.HeaderMainDiv {
+    height: 65px;
+    background-color: rgb(0, 44, 44);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    transition: 0.3s;
+}
+
+.HeaderMainDiv:hover {
+    background-color: rgb(2, 52, 52);
+}
+
+.logoAndName {
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.logo {
+    background-image: url('../imges/quranlogo.png');
+    background-size: cover;
+    background-color: white;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.siteName {
+    font-size: 20px;
+}
+
+.switchLangLightDark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+    font-size: 23px;
+}
+
+.switchLangLightDark a {
+    color: white;
+}
+
+.switchLangLightDark a div {
+    margin-inline: 10px;
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+    background-color: rgb(0, 56, 56);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: 0.3s;
+}
+.switchLangLightDark a div:hover {
+    background-color: rgb(0, 97, 97);
+}
