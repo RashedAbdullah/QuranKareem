@@ -20,7 +20,7 @@ const Surahnames = () => {
                     <p>۱</p>
                   </div>
                   <div className='surahName'>
-                  <p>السُوَرِالقُرْآنِية</p>
+                  <p>سُوْرَةُ الفَاتِحَة</p>
                   </div>
               
         </Link>
@@ -31,12 +31,44 @@ const Surahnames = () => {
                     <p>۲</p>
                   </div>
                   <div className='surahName'>
-                  <p>السُوَرِالقُرْآنِية</p>
+                  <p>سُوْرَةُ البَقَرَة</p>
                   </div>
               
         </Link>
 
-        
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah3">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۳</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ آل عِمْرَان</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah4">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۴</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ النِّسَاء</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah5">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۵</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المَائدة</p>
+                  </div>
+              
+        </Link>
+
     </div>
 
     

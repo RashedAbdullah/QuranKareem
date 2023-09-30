@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import './SurahCSS.css';
 import Allsurah from '../../quranJSON/Ayats/quran.json';
 
-const Surah2 = () => {
+const Surah5 = () => {
   return (
 
     //surah fatiha
@@ -130,11 +130,11 @@ const Surah2 = () => {
 
       <div className='AllAboutSurah'>
           <div className='surahNameAndBismillah'>
-              <h2 className='text-center pb-2'>سُوْرَةُ البَقَرَة</h2>
+              <h2 className='text-center pb-2'>سُوْرَةُ المَائدة</h2>
               <h2 className='text-center'>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</h2>
           </div>
           
-          {Allsurah.Surah2.map((value)=> {
+          {Allsurah.Surah5.map((value)=> {
 
           // convert to number:
           let surahNumbers = parseInt(value.verse, 10);
@@ -161,4 +161,4 @@ const Surah2 = () => {
   )
 }
 
-export default Surah2;
+export default Surah5;
