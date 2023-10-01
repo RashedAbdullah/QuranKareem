@@ -3,10 +3,10 @@ import { Link, useMatch } from 'react-router-dom';
 import './SurahCSS.css';
 import Allsurah from '../../quranJSON/Ayats/quran.json';
 
-const Surah3 = () => {
+const Surah39 = () => {
 
-  const isActive = useMatch(`/Surah3`);
-  
+  const isActive = useMatch(`/Surah39`);
+
   return (
 
     //surah fatiha
@@ -16,7 +16,7 @@ const Surah3 = () => {
       <div className="AllAboutSurahNames">
           <Link className='insideSurahnems' to="/Surah1"><div><p className='p2'>۱</p></div><p className='p'>سُوْرَةُ الفَاتِحَة</p></Link>
           <Link className='insideSurahnems' to="/Surah2"><div><p className='p2'>۲</p></div><p className='p'>سُوْرَةُ البَقَرَة</p></Link>
-          <Link className='insideSurahnems isActive' to="/Surah3 "><div><p className='p2'>۳</p></div><p className='p'>سُوْرَةُ آل عِمْرَان</p></Link>
+          <Link className='insideSurahnems' to="/Surah3"><div><p className='p2'>۳</p></div><p className='p'>سُوْرَةُ آل عِمْرَان</p></Link>
           <Link className='insideSurahnems' to="/Surah4"><div><p className='p2'>۴</p></div><p className='p'>سُوْرَةُ النِّسَاء</p></Link>
           <Link className='insideSurahnems' to="/Surah5"><div><p className='p2'>۵</p></div><p className='p'>سُوْرَةُ المَائدة</p></Link>
           <Link className='insideSurahnems' to="/Surah6"><div><p className='p2'>۶</p></div><p className='p'>سُوْرَةُ الأنْعَام</p></Link>
@@ -52,7 +52,7 @@ const Surah3 = () => {
           <Link className='insideSurahnems' to="/Surah36"><div><p className='p2'>۳۶</p></div><p className='p'>سُوْرَةُ يٰس</p></Link>
           <Link className='insideSurahnems' to="/Surah37"><div><p className='p2'>۳۷</p></div><p className='p'>سُوْرَةُ الصَّافَّات</p></Link>
           <Link className='insideSurahnems' to="/Surah38"><div><p className='p2'>۳۸</p></div><p className='p'>سُوْرَةُ ص</p></Link>
-          <Link className='insideSurahnems' to="/Surah39"><div><p className='p2'>۳۹</p></div><p className='p'>سُوْرَةُ الزُّمَر</p></Link>
+          <Link className='insideSurahnems isActive' to="/Surah39"><div><p className='p2'>۳۹</p></div><p className='p'>سُوْرَةُ الزُّمَر</p></Link>
           <Link className='insideSurahnems' to="/Surah40"><div><p className='p2'>۴۰</p></div><p className='p'>سُوْرَةُ غَافِر</p></Link>
           <Link className='insideSurahnems' to="/Surah41"><div><p className='p2'>۴۱</p></div><p className='p'>سُوْرَةُ فُصِّلَت</p></Link>
           <Link className='insideSurahnems' to="/Surah42"><div><p className='p2'>۴۲</p></div><p className='p'>سُوْرَةُ الشُّورىٰ</p></Link>
@@ -133,11 +133,11 @@ const Surah3 = () => {
 
       <div className='AllAboutSurah'>
           <div className='surahNameAndBismillah'>
-              <h2 className='text-center pb-2'>سُوْرَةُ آل عِمْرَان</h2>
+              <h2 className='text-center pb-2'>سُوْرَةُ الزُّمَر</h2>
               <h2 className='text-center'>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</h2>
           </div>
           
-          {Allsurah.Surah3.map((value)=> {
+          {Allsurah.Surah39.map((value)=> {
 
           // convert to number:
           let surahNumbers = parseInt(value.verse, 10);
@@ -164,4 +164,4 @@ const Surah3 = () => {
   )
 }
 
-export default Surah3;
+export default Surah39;

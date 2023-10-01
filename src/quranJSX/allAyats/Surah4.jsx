@@ -1,9 +1,12 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useMatch } from 'react-router-dom';
 import './SurahCSS.css';
 import Allsurah from '../../quranJSON/Ayats/quran.json';
 
 const Surah4 = () => {
+
+  const isActive = useMatch(`/Surah4`);
+
   return (
 
     //surah fatiha
@@ -14,7 +17,7 @@ const Surah4 = () => {
           <Link className='insideSurahnems' to="/Surah1"><div><p className='p2'>۱</p></div><p className='p'>سُوْرَةُ الفَاتِحَة</p></Link>
           <Link className='insideSurahnems' to="/Surah2"><div><p className='p2'>۲</p></div><p className='p'>سُوْرَةُ البَقَرَة</p></Link>
           <Link className='insideSurahnems' to="/Surah3"><div><p className='p2'>۳</p></div><p className='p'>سُوْرَةُ آل عِمْرَان</p></Link>
-          <Link className='insideSurahnems' to="/Surah4"><div><p className='p2'>۴</p></div><p className='p'>سُوْرَةُ النِّسَاء</p></Link>
+          <Link className='insideSurahnems isActive' to="/Surah4"><div><p className='p2'>۴</p></div><p className='p'>سُوْرَةُ النِّسَاء</p></Link>
           <Link className='insideSurahnems' to="/Surah5"><div><p className='p2'>۵</p></div><p className='p'>سُوْرَةُ المَائدة</p></Link>
           <Link className='insideSurahnems' to="/Surah6"><div><p className='p2'>۶</p></div><p className='p'>سُوْرَةُ الأنْعَام</p></Link>
           <Link className='insideSurahnems' to="/Surah7"><div><p className='p2'>۷</p></div><p className='p'>سُوْرَةُ الأعْرَاف</p></Link>
@@ -57,7 +60,7 @@ const Surah4 = () => {
           <Link className='insideSurahnems' to="/Surah44"><div><p className='p2'>۴۴</p></div><p className='p'>سُوْرَةُ الدُّخَان</p></Link>
           <Link className='insideSurahnems' to="/Surah45"><div><p className='p2'>۴۵</p></div><p className='p'>سُوْرَةُ الجَاثِيَة</p></Link>
           <Link className='insideSurahnems' to="/Surah46"><div><p className='p2'>۴۶</p></div><p className='p'>سُوْرَةُ الأَحْقَاف</p></Link>
-          <Link className='insideSurahnems' to="/Surah474"><div><p className='p2'>۴۷</p></div><p className='p'>سُوْرَةُ مُحَمَّد</p></Link>
+          <Link className='insideSurahnems' to="/Surah47"><div><p className='p2'>۴۷</p></div><p className='p'>سُوْرَةُ مُحَمَّد</p></Link>
           <Link className='insideSurahnems' to="/Surah48"><div><p className='p2'>۴۸</p></div><p className='p'>سُوْرَةُ الفَتْح</p></Link>
           <Link className='insideSurahnems' to="/Surah49"><div><p className='p2'>۴۹</p></div><p className='p'>سُوْرَةُ الحُجُرَات</p></Link>
           <Link className='insideSurahnems' to="/Surah50"><div><p className='p2'>۵۰</p></div><p className='p'>سُوْرَةُ ق</p></Link>

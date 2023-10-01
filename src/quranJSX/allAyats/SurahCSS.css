@@ -9,13 +9,34 @@
 
 .AllAboutSurahNames{
     width: 15%;
+    height: 93vh;
+    overflow: auto;
+    position: fixed;
+    right: 5px;
+    top: 70px;
     border-radius: 15px;
     border: 1px solid white;
     background-color: rgb(0, 40, 40);
 }
 
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+::-webkit-scrollbar-track {
+    background: transparent; /* Track color (background) */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ffffff3d; /* Scrollbar thumb color */
+    border-radius: 6px; /* Rounded corners for the thumb */
+  }
+
 .AllAboutSurah {
     width: 85%;
+    margin-right: 15vw;
+    margin-top: none;
+    margin-top: 3vh;
 }
 
 .insideSurahnems {
@@ -31,6 +52,10 @@
 .insideSurahnems:hover {
     background-color: rgb(0, 123, 82);
     border-radius: 5px;
+}
+
+.insideSurahnems:focus {
+    background-color: rgb(0, 123, 82);
 }
 
 .insideSurahnems .p {
@@ -59,6 +84,10 @@
     font-family: 'Noto Serif Bengali', serif;
 }
 
+/* .surahNameAndBismillah {
+    padding-top: 50px;
+} */
+
 .surahNameAndBismillah, .ayatAndNumber {
     /* width: 70%; */
     background-color: rgb(0, 40, 40);
@@ -72,7 +101,7 @@
 .surahNameAndBismillah h2 {
     font-family: KFGQPC;
     color: white;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .surahNameAndBismillah h2:last-child {
@@ -148,4 +177,9 @@
         font-size: 20px;
         padding: 10px;
     }
+}
+
+
+.isActive {
+    background-color: rgb(0, 108, 108);
 }
