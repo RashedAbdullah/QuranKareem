@@ -64,60 +64,60 @@ import Surah57 from './quranJSX/allAyats/Surah57';
 import Surah58 from './quranJSX/allAyats/Surah58';
 import Surah59 from './quranJSX/allAyats/Surah59';
 import Surah60 from './quranJSX/allAyats/Surah60';
-// import Surah61 from './quranJSX/allAyats/Surah61';
-// import Surah62 from './quranJSX/allAyats/Surah62';
-// import Surah63 from './quranJSX/allAyats/Surah63';
-// import Surah64 from './quranJSX/allAyats/Surah64';
-// import Surah65 from './quranJSX/allAyats/Surah65';
-// import Surah66 from './quranJSX/allAyats/Surah66';
-// import Surah67 from './quranJSX/allAyats/Surah67';
-// import Surah68 from './quranJSX/allAyats/Surah68';
-// import Surah69 from './quranJSX/allAyats/Surah69';
-// import Surah70 from './quranJSX/allAyats/Surah70';
-// import Surah71 from './quranJSX/allAyats/Surah71';
-// import Surah72 from './quranJSX/allAyats/Surah72';
-// import Surah73 from './quranJSX/allAyats/Surah73';
-// import Surah74 from './quranJSX/allAyats/Surah74';
-// import Surah75 from './quranJSX/allAyats/Surah75';
-// import Surah76 from './quranJSX/allAyats/Surah76';
-// import Surah77 from './quranJSX/allAyats/Surah77';
-// import Surah78 from './quranJSX/allAyats/Surah78';
-// import Surah79 from './quranJSX/allAyats/Surah79';
-// import Surah80 from './quranJSX/allAyats/Surah80';
-// import Surah81 from './quranJSX/allAyats/Surah81';
-// import Surah82 from './quranJSX/allAyats/Surah82';
-// import Surah83 from './quranJSX/allAyats/Surah83';
-// import Surah84 from './quranJSX/allAyats/Surah84';
-// import Surah85 from './quranJSX/allAyats/Surah85';
-// import Surah86 from './quranJSX/allAyats/Surah86';
-// import Surah87 from './quranJSX/allAyats/Surah87';
-// import Surah88 from './quranJSX/allAyats/Surah88';
-// import Surah89 from './quranJSX/allAyats/Surah89';
-// import Surah90 from './quranJSX/allAyats/Surah90';
-// import Surah91 from './quranJSX/allAyats/Surah91';
-// import Surah92 from './quranJSX/allAyats/Surah92';
-// import Surah93 from './quranJSX/allAyats/Surah93';
-// import Surah94 from './quranJSX/allAyats/Surah94';
-// import Surah95 from './quranJSX/allAyats/Surah95';
-// import Surah96 from './quranJSX/allAyats/Surah96';
-// import Surah97 from './quranJSX/allAyats/Surah97';
-// import Surah98 from './quranJSX/allAyats/Surah98';
-// import Surah99 from './quranJSX/allAyats/Surah99';
-// import Surah100 from './quranJSX/allAyats/Surah100';
-// import Surah101 from './quranJSX/allAyats/Surah101';
-// import Surah102 from './quranJSX/allAyats/Surah102';
-// import Surah103 from './quranJSX/allAyats/Surah103';
-// import Surah104 from './quranJSX/allAyats/Surah104';
-// import Surah105 from './quranJSX/allAyats/Surah105';
-// import Surah106 from './quranJSX/allAyats/Surah106';
-// import Surah107 from './quranJSX/allAyats/Surah107';
-// import Surah108 from './quranJSX/allAyats/Surah108';
-// import Surah109 from './quranJSX/allAyats/Surah109';
-// import Surah110 from './quranJSX/allAyats/Surah110';
-// import Surah111 from './quranJSX/allAyats/Surah111';
-// import Surah112 from './quranJSX/allAyats/Surah112';
-// import Surah113 from './quranJSX/allAyats/Surah113';
-// import Surah114 from './quranJSX/allAyats/Surah114';
+import Surah61 from './quranJSX/allAyats/Surah61';
+import Surah62 from './quranJSX/allAyats/Surah62';
+import Surah63 from './quranJSX/allAyats/Surah63';
+import Surah64 from './quranJSX/allAyats/Surah64';
+import Surah65 from './quranJSX/allAyats/Surah65';
+import Surah66 from './quranJSX/allAyats/Surah66';
+import Surah67 from './quranJSX/allAyats/Surah67';
+import Surah68 from './quranJSX/allAyats/Surah68';
+import Surah69 from './quranJSX/allAyats/Surah69';
+import Surah70 from './quranJSX/allAyats/Surah70';
+import Surah71 from './quranJSX/allAyats/Surah71';
+import Surah72 from './quranJSX/allAyats/Surah72';
+import Surah73 from './quranJSX/allAyats/Surah73';
+import Surah74 from './quranJSX/allAyats/Surah74';
+import Surah75 from './quranJSX/allAyats/Surah75';
+import Surah76 from './quranJSX/allAyats/Surah76';
+import Surah77 from './quranJSX/allAyats/Surah77';
+import Surah78 from './quranJSX/allAyats/Surah78';
+import Surah79 from './quranJSX/allAyats/Surah79';
+import Surah80 from './quranJSX/allAyats/Surah80';
+import Surah81 from './quranJSX/allAyats/Surah81';
+import Surah82 from './quranJSX/allAyats/Surah82';
+import Surah83 from './quranJSX/allAyats/Surah83';
+import Surah84 from './quranJSX/allAyats/Surah84';
+import Surah85 from './quranJSX/allAyats/Surah85';
+import Surah86 from './quranJSX/allAyats/Surah86';
+import Surah87 from './quranJSX/allAyats/Surah87';
+import Surah88 from './quranJSX/allAyats/Surah88';
+import Surah89 from './quranJSX/allAyats/Surah89';
+import Surah90 from './quranJSX/allAyats/Surah90';
+import Surah91 from './quranJSX/allAyats/Surah91';
+import Surah92 from './quranJSX/allAyats/Surah92';
+import Surah93 from './quranJSX/allAyats/Surah93';
+import Surah94 from './quranJSX/allAyats/Surah94';
+import Surah95 from './quranJSX/allAyats/Surah95';
+import Surah96 from './quranJSX/allAyats/Surah96';
+import Surah97 from './quranJSX/allAyats/Surah97';
+import Surah98 from './quranJSX/allAyats/Surah98';
+import Surah99 from './quranJSX/allAyats/Surah99';
+import Surah100 from './quranJSX/allAyats/Surah100';
+import Surah101 from './quranJSX/allAyats/Surah101';
+import Surah102 from './quranJSX/allAyats/Surah102';
+import Surah103 from './quranJSX/allAyats/Surah103';
+import Surah104 from './quranJSX/allAyats/Surah104';
+import Surah105 from './quranJSX/allAyats/Surah105';
+import Surah106 from './quranJSX/allAyats/Surah106';
+import Surah107 from './quranJSX/allAyats/Surah107';
+import Surah108 from './quranJSX/allAyats/Surah108';
+import Surah109 from './quranJSX/allAyats/Surah109';
+import Surah110 from './quranJSX/allAyats/Surah110';
+import Surah111 from './quranJSX/allAyats/Surah111';
+import Surah112 from './quranJSX/allAyats/Surah112';
+import Surah113 from './quranJSX/allAyats/Surah113';
+import Surah114 from './quranJSX/allAyats/Surah114';
 
 
 function App() {
@@ -189,7 +189,7 @@ function App() {
         <Route path="/Surah58" element={<Surah58 />}/>
         <Route path="/Surah59" element={<Surah59 />}/>
         <Route path="/Surah60" element={<Surah60 />}/>
-        {/* <Route path="/Surah61" element={<Surah61 />}/>
+        <Route path="/Surah61" element={<Surah61 />}/>
         <Route path="/Surah62" element={<Surah62 />}/>
         <Route path="/Surah63" element={<Surah63 />}/>
         <Route path="/Surah64" element={<Surah64 />}/>
@@ -198,8 +198,8 @@ function App() {
         <Route path="/Surah67" element={<Surah67 />}/>
         <Route path="/Surah68" element={<Surah68 />}/>
         <Route path="/Surah69" element={<Surah69 />}/>
-        <Route path="/Surah70" element={<Surah70 />}/> */}
-        {/* <Route path="/Surah71" element={<Surah71 />}/>
+        <Route path="/Surah70" element={<Surah70 />}/>
+        <Route path="/Surah71" element={<Surah71 />}/>
         <Route path="/Surah72" element={<Surah72 />}/>
         <Route path="/Surah73" element={<Surah73 />}/>
         <Route path="/Surah74" element={<Surah74 />}/>
@@ -208,8 +208,8 @@ function App() {
         <Route path="/Surah77" element={<Surah77 />}/>
         <Route path="/Surah78" element={<Surah78 />}/>
         <Route path="/Surah79" element={<Surah79 />}/>
-        <Route path="/Surah80" element={<Surah80 />}/> */}
-        {/* <Route path="/Surah81" element={<Surah81 />}/>
+        <Route path="/Surah80" element={<Surah80 />}/>
+        <Route path="/Surah81" element={<Surah81 />}/>
         <Route path="/Surah82" element={<Surah82 />}/>
         <Route path="/Surah83" element={<Surah83 />}/>
         <Route path="/Surah84" element={<Surah84 />}/>
@@ -218,8 +218,8 @@ function App() {
         <Route path="/Surah87" element={<Surah87 />}/>
         <Route path="/Surah88" element={<Surah88 />}/>
         <Route path="/Surah89" element={<Surah89 />}/>
-        <Route path="/Surah90" element={<Surah90 />}/> */}
-        {/* <Route path="/Surah91" element={<Surah91 />}/>
+        <Route path="/Surah90" element={<Surah90 />}/>
+        <Route path="/Surah91" element={<Surah91 />}/>
         <Route path="/Surah92" element={<Surah92 />}/>
         <Route path="/Surah93" element={<Surah93 />}/>
         <Route path="/Surah94" element={<Surah94 />}/>
@@ -228,8 +228,8 @@ function App() {
         <Route path="/Surah97" element={<Surah97 />}/>
         <Route path="/Surah98" element={<Surah98 />}/>
         <Route path="/Surah99" element={<Surah99 />}/>
-        <Route path="/Surah100" element={<Surah100 />}/> */}
-        {/* <Route path="/Surah101" element={<Surah101 />}/>
+        <Route path="/Surah100" element={<Surah100 />}/>
+        <Route path="/Surah101" element={<Surah101 />}/>
         <Route path="/Surah102" element={<Surah102 />}/>
         <Route path="/Surah103" element={<Surah103 />}/>
         <Route path="/Surah104" element={<Surah104 />}/>
@@ -242,7 +242,7 @@ function App() {
         <Route path="/Surah111" element={<Surah111 />}/>
         <Route path="/Surah112" element={<Surah112 />}/>
         <Route path="/Surah113" element={<Surah113 />}/>
-        <Route path="/Surah114" element={<Surah114 />}/> */}
+        <Route path="/Surah114" element={<Surah114 />}/>
       </Routes>
       <Footer/>
     </Router>
