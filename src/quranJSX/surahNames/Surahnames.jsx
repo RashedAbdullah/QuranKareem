@@ -674,6 +674,600 @@ const Surahnames = () => {
               
         </Link>
 
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah61">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۱</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الصَّفّ</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah62">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۲</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الجُمُعَة</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah63">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۳</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المُنَافِقُون</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah64">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۴</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ التَّغَابُن</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah65">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۵</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الطَّلَاق</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah66">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۶</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ التَّحْرِيم</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah67">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۷</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المُلْك</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah68">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۸</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ القَلَم</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah69">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۶۹</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الحَاقَّة</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah70">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۰</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المَعَارِج</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah71">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۱</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ نُوح</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah72">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۲</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الجِنّ</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah73">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۳</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المُزَّمِّل</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah74">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۴</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المُدَّثِّر</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah75">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۵</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ القِيَامَة</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah76">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۶</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الإِنْسَان</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah77">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۷</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المُرْسَلَات</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah78">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۸</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ النَّبَأ</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah79">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۷۹</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ النَّازِعَات</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah80">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۰</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ عَبَسَ</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah81">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۱</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ التَّكْوِير</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah82">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۲</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الإِنْفِطَار</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah83">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۳</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المُطَفِّفِين</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah84">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۴</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الاِنْشِقَاق</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah85">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۵</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ البُرُوج</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah86">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۶</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الطَّارِق</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah87">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۷</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الأَعْلَىٰ</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah88">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۸</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الغَاشِيَة</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah89">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۸۹</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الفَجْر</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah90">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۰</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ البَلَد</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah91">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۱</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الشَّمْس</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah92">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۲</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ اللَّيْل</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah93">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۳</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الضُّحَىٰ</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah94">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۴</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الشَّرْح</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah95">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۵</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ التِّين</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah96">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۶</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ العَلَق</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah97">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۷</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ القَدْر</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah98">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۸</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ البَيِّنَة</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah99">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۹۹</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الزَّلْزَلَة</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah100">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۰</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ العَادِيَات</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah101">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۱</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ القَارِعَة</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah102">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۲</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ التَّكَاثُر</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah103">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۳</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ العَصْر</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah104">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۴</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الهُمَزَة</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah105">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۵</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الفِيل</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah106">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۶</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ قُرَيْش</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah107">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۷</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المَاعُون</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah108">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۸</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الكَوْثَر</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah109">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۰۹</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الكَافِرُون</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah110">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۱۰</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ النَّصْر</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah111">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۱۱</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ المَسَد</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah112">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۱۲</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الإِخْلَاص</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah113">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۱۳</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ الفَلَق</p>
+                  </div>
+              
+        </Link>
+
+        <Link className='LinkOfSurahNameAndNumber' to="/Surah114">
+                  
+                  <div className='insideofSurahNumber'>
+                    <p>۱۱۴</p>
+                  </div>
+                  <div className='surahName'>
+                  <p>سُوْرَةُ النَّاس</p>
+                  </div>
+              
+        </Link>
+
     </div>
 
     

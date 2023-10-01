@@ -15,7 +15,7 @@ const HeroArea = () => {
         <form action="">
           <div className="SearchBox">
               <div className="searchBoxAndIcon">
-                  <input type="search" placeholder='ابحث عن سورة أو آية' />  
+                  <input className='inputStyle' type="search" placeholder='ابحث عن سورة أو آية' />  
               <div className="SearchIconBox">
                 <button><FaMagnifyingGlass /></button>
               </div>
